@@ -2,7 +2,7 @@
 #
 # VERSION               0.0.1
 
-FROM     centos:latest
+FROM     centos:centos7.1.1503
 
 MAINTAINER Gen Takahashi "gen.takahashi@drecom.co.jp"
 
